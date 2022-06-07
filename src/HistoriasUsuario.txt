@@ -1,0 +1,12 @@
+Como niño 
+Quiero poder escribir un numero 
+Para que me devuelva escrito en palabras.
+Criterios de confirmacion:
+ - El niño podra escribir un numero y al presionar el boton de traducir aparecera escrito el numero en palabras.
+
+
+Como niño
+Quiero 
+Para 
+Criterios de confirmacion
+-
